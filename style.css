@@ -1,0 +1,82 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    background-size: cover;
+    background-position: center;
+}
+
+.title{
+    font-weight: 500;
+    background-color: rgb(233, 255, 228);
+    border: dashed 0.4rem green;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 3rem;
+    color: black;
+    border-radius: 0.5rem;
+    cursor: default;
+}
+
+.dec{
+    font-weight: 500;
+    background-color: #ffe3be;
+    border: dashed 0.4rem #f4a849;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 1.5rem;
+    color: black;
+    border-radius: 0.5rem; 
+    cursor: default;
+}
+
+.name{
+    font-weight: 500;
+    background-color: #cfd9b3;
+    border: dashed 0.4rem #93a954;
+    margin: 1rem;
+    padding: 0.5rem;
+    font-size: 1.3rem;
+    color: black;
+    border-radius: 0.5rem;  
+    cursor: default;
+}
+
+.button{
+    font-weight: 500;
+    background-color: #dce4cb;
+    border: dashed 0.4rem #4b611f;
+    margin: 1rem;
+    padding: 0.5rem;
+    font-size: 1.3rem;
+    color: black;
+    border-radius: 0.5rem; 
+    transition: 0.3s;
+}
+.button:hover{
+    color: #dce4cb;
+    border: dashed 0.4rem #dce4cb;
+    background-color: #4b611f;
+    scale: 1.1;
+}
+.button:active{
+    color: #dce4cb;
+    border: dashed 0.4rem #dce4cb;
+    background-color: #4b611f;
+    scale: 0.9;
+}
+
+.text{
+    font-weight: 500;
+    background-color: #ffe3be;
+    border: dashed 0.4rem #f4a849;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 1.3rem;
+    color: black;
+    border-radius: 0.5rem;  
+    cursor: default;
+}
+
+canvas{
+   border: dashed 0.4rem #93a954;  
+   border-radius: 1rem;
+}
