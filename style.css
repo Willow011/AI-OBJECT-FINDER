@@ -79,4 +79,5 @@ body{
 canvas{
    border: dashed 0.4rem #93a954;  
    border-radius: 1rem;
+   margin-top: 16rem;
 }
